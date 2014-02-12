@@ -1,0 +1,7 @@
+GeeMail
+
+(function(){
+	window.geemails = [];
+	loadGeeMails();
+	
+}
